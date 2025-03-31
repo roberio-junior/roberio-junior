@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo(a) ao meu repositório!
 ## 🧑‍💻 Sobre mim
-Meu nome é **Robério Júnior** e sou apaixonado por tecnologia! Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e aberto a novas oportunidades.
+Meu nome é **Robério Júnior** e, atualmente, estou focado no aprimoramento das minhas habilidades em desenvolvimento web, sempre em busca de novas oportunidades para aprender e contribuir em projetos inovadores.
 
 
 - 🎓 **Técnico** em Manutenção e Suporte em Informática  
