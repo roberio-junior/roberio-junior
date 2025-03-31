@@ -8,6 +8,9 @@ Meu nome é **Robério Júnior** e sou apaixonado por tecnologia! Atualmente, es
 - 👀 Aberto a novas oportunidades e projetos
 - 🌎 **Idiomas:** Português (Fluente)
 
+## Minhas habilidades
+[![Habilidades](https://skillicons.dev/icons?i=vue,vuetify,ts,py,html,css,sass,vscode,git,github,linux,windows)](https://github.com/roberio-junior)
+
 ---
 
 ## 📫 Como me encontrar 
