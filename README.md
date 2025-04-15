@@ -6,7 +6,6 @@ Meu nome é **Robério Júnior** e, atualmente, estou focado no aprimoramento da
 - 🎓 **Técnico** em Manutenção e Suporte em Informática  
 - 📚 **Graduando** em Sistemas para Internet  
 - 👀 Aberto a novas oportunidades e projetos
-- 🌎 **Idiomas:** Português (Fluente)
 
 ## Minhas habilidades
 [![Habilidades](https://skillicons.dev/icons?i=vue,vuetify,ts,py,html,css,sass,vscode,git,github,linux,windows)](https://github.com/roberio-junior)
