@@ -8,7 +8,7 @@ Meu nome é **Robério Júnior** e, atualmente, estou focado no aprimoramento da
 - 👀 Aberto a novas oportunidades e projetos
 
 ## Minhas habilidades
-[![Habilidades](https://skillicons.dev/icons?i=vue,vuetify,ts,py,html,css,sass,vscode,git,github,linux,windows)](https://github.com/roberio-junior)
+[![Habilidades](https://skillicons.dev/icons?i=vue,vuetify,ts,py,markdown,html,css,sass,vscode,git,github,linux,windows)](https://github.com/roberio-junior)
 
 ---
 
