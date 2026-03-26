@@ -13,7 +13,7 @@ Meu nome é **Robério Júnior** e, atualmente, estou focado no aprimoramento da
 |---------|-----------|------|
 | [CT Mineral - Projeto Integrador I](https://github.com/ctm-systems) | FullStack | ✅ Concluído |
 | [Prompts Manager](https://github.com/roberio-junior/prompts-manager) | FrontEnd | ✅ Concluído |
-| SmartColeta | FullStack | 💡 Em ideação |
+| SmartColeta | Mobile (FullStack) | 💡 Em ideação |
 
 ## Minhas habilidades
 [![Habilidades](https://skillicons.dev/icons?i=vue,vuetify,ts,py,markdown,html,css,sass,vscode,git,github,linux,windows)](https://github.com/roberio-junior)
