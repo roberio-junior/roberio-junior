@@ -1,11 +1,14 @@
 # 👋 Olá, seja bem-vindo(a) ao meu repositório!
-## 🧑‍💻 Sobre mim
-Meu nome é **Robério Júnior** e, atualmente, estou focado no aprimoramento das minhas habilidades em desenvolvimento web, sempre em busca de novas oportunidades para aprender e contribuir em projetos inovadores.
+## 👨‍💻 Sobre mim
 
+Olá! Sou **Robério Júnior**, desenvolvedor Web e Mobile, com interesse na criação de soluções digitais funcionais, intuitivas e que atendam a necessidades reais.
 
-- 🎓 **Técnico** em Manutenção e Suporte em Informática  
-- 📚 **Graduando** em Sistemas para Internet  
-- 👀 Aberto a novas oportunidades e projetos
+Tenho conhecimentos em desenvolvimento frontend e backend, trabalhando com a construção de interfaces, integração com APIs e bancos de dados. Busco aprimorar continuamente minhas habilidades, explorar novas tecnologias e evoluir profissionalmente na área de desenvolvimento de software.
+
+- 🎓 **Formação técnica:** Manutenção e Suporte em Informática — IFRN (concluído)
+- 📚 **Graduação:** Tecnologia em Sistemas para Internet — IFRN (em andamento)
+- 💻 **Áreas de interesse:** Desenvolvimento Web, Mobile e Backend
+- 👀 **Aberto a oportunidades profissionais e colaboração em projetos.**
 
 ## 🌐 Conheça meu portfólio
 
