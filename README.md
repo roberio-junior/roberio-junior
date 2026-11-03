@@ -7,6 +7,14 @@ Meu nome é **Robério Júnior** e, atualmente, estou focado no aprimoramento da
 - 📚 **Graduando** em Sistemas para Internet  
 - 👀 Aberto a novas oportunidades e projetos
 
+## 🌐 Conheça meu portfólio
+
+Explore meus projetos de desenvolvimento Web e Mobile, com estudos de caso, tecnologias utilizadas e detalhes das soluções desenvolvidas.
+
+[![Acessar portfólio](https://img.shields.io/badge/Acessar_portf%C3%B3lio-3265FF?style=for-the-badge)](https://portfolio-roberio-or4c.vercel.app/)
+
+---
+
 ## Meus Principais Projetos
 
 | Projeto | Área | Status |
