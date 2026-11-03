@@ -27,8 +27,24 @@ Explore meus projetos de desenvolvimento Web e Mobile, com estudos de caso, tecn
 | [OndeTá](https://github.com/ondeta) | Mobile (FullStack) | ✅ Concluído |
 | [PeladaHub](https://github.com/roberio-junior/peladahub) | Mobile (FullStack)| ⚙️ Desenvolvendo |
 
-## Minhas habilidades
-[![Habilidades](https://skillicons.dev/icons?i=vue,vuetify,ts,py,markdown,html,css,sass,vscode,git,github,linux,windows)](https://github.com/roberio-junior)
+## 🛠️ Minhas habilidades
+
+### Frontend e Mobile
+![HTML, CSS, JavaScript, TypeScript, React, Vue.js e Vuetify](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vuetify&theme=dark)
+
+**Desenvolvimento mobile:** React Native, Expo e React Navigation.
+
+### Backend e APIs
+![Node.js, NestJS, AdonisJS e Python](https://skillicons.dev/icons?i=nodejs,nestjs,adonis,py&theme=dark)
+
+### Bancos de dados e serviços
+![PostgreSQL, SQLite, MySQL, Supabase e Firebase](https://skillicons.dev/icons?i=postgres,sqlite,mysql,supabase,firebase&theme=dark)
+
+### Sistemas embarcados e IoT
+![C++ e Raspberry Pi](https://skillicons.dev/icons?i=cpp,raspberrypi&theme=dark)
+
+### Ferramentas
+![Git, GitHub, Docker, VS Code, Linux e Figma](https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma&theme=dark)
 
 ---
 
